@@ -1,0 +1,46 @@
+body
+{
+  background-image: url(ph.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment:scroll;
+}
+.form
+{ top:50%;
+  left:50%;
+
+  
+}
+.form h1
+{
+    font-size: 30px ;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+.form p
+{ display: flex;
+  font-size:larger;
+ font-family: Arial, Helvetica, sans-serif;
+ margin: 15px 0;
+ }
+ .select
+ {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font: normal 11px/22px Arial ,sans-serif
+    color: bold;
+    border: 1px solid #ccc;
+ }
+select
+ {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  font: normal 11px/22px ARIAL,sans-serif;
+  color: bold;
+  border: 1px solid #ccc;
+ }
+
